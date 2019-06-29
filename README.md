@@ -1,2 +1,0 @@
-# workshopVue
-Created with CodeSandbox
